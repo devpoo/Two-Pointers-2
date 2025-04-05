@@ -1,6 +1,13 @@
 package week3;
 
+/*
+*
+* TC: Time complexity : O(n+m)
+* LC: https://leetcode.com/problems/search-a-2d-matrix-ii/editorial/
+* YT: https://youtu.be/zg_-14dHvHI?si=kgNVLcnB8xyrXnMB&t=3101
+* */
 public class SearchIn2DMatrix {
+
 
     public boolean search(int[][] nums, int target) {
         int r = 0;
